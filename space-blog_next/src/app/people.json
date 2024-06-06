@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Neil Armstrong",
+      "occupation": "Астронавт",
+      "description": "Первый человек, ступивший на поверхность Луны в истории человечества.",
+      "photo": "https://www.ocregister.com/wp-content/uploads/migration/m9d/m9dywc-m9dyveneilarmstrong.jpg?w=535"
+    },
+    {
+      "id": 2,
+      "name": "Katherine Johnson",
+      "occupation": "Математик",
+      "description": "Американский математик, важный участник в программе космических полетов NASA.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/1200px-Katherine_Johnson_1983.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Elon Musk",
+      "occupation": "Предприниматель и инженер",
+      "description": "Основатель SpaceX, CEO и архитектор главного конструкторского проекта.",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg/220px-Elon_Musk_Royal_Society_%28crop1%29.jpg"
+    }
+  ]
+  
