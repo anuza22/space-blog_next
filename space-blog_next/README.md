@@ -3,13 +3,12 @@
 ## Overview
 The Space Blog is a Next.js project that showcases a collection of blog posts related to space and various other topics. Each blog post is displayed in a card format on the main blog page, and clicking on a card redirects the user to a detailed view of the blog post.
 
-## Features
+## Features 
+- all 3 levels
 - Responsive design with a grid layout for blog cards.
 - Dynamic routing for blog post detail pages.
 - Integration of additional blog data via JSON files.
 
-## Note
-Currently, dynamic routes are not working correctly in this project. 
 
 **Open the application:**
     Open your browser and go to `http://localhost:3000`.

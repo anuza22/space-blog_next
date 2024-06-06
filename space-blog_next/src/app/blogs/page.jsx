@@ -7,7 +7,11 @@ export default function Blogs() {
       <h1 className="text-4xl font-bold mb-8">Blogs</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {data.map((blog) => (
-                <BlogCard blog={blog}/>
+               <Link key={blog.id} href={`/blogs/${blog.id}`}>
+               <a>
+                 <BlogCard title={blog.title} />
+               </a>
+             </Link>
             ))}
       </div>
     </div>
